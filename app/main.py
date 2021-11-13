@@ -58,7 +58,7 @@ while True:
         time.sleep(3)
 @app.get("/")
 def root():
-    return {"msg": "Hello World"}
+    return {"msg": "Hello World from AJ"}
 ###########################################################################
 #posts Section
 
